@@ -12,6 +12,7 @@ public class Item {
 	private Integer id;
 	//姓名
 	private String name;
+	//可能是年龄吧？
 	private Integer number;
 	
 }
